@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1525700062 source:c:\test\parcial_1\pacial2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Propietario.h"
+	"Automovil.h"
+
+1525700254 c:\test\parcial_1\pacial2018\propietario.h
+
+1525693929 c:\test\parcial_1\pacial2018\automovil.h
+
+1525701471 source:c:\test\parcial_1\pacial2018\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietario.h"
+	"Automovil.h"
+
